@@ -4,7 +4,7 @@ fix of the light.co ceres.dll
 
 see here for description on how/what 
 
-https://wordpress.com/post/charliex2.wordpress.com/1353
+https://charliex2.wordpress.com/2017/12/06/light-co-l16-camera-fixing-the-lumen-software/
 
 http://ceres-solver.org/installation.html
 but since i'm using the windows version i grabbed this build,  (using submodules to get glog)
